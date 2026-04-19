@@ -23,10 +23,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/cLJQnOl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Recording 2026-04-19 155758.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Windows Screen Capture 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,7 +38,7 @@ I dealt with some challenges trying to understand the DOM tree but I eventually 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2026 Cougar Bellinger
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
